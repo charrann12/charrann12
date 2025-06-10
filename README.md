@@ -8,8 +8,8 @@
 
 ## 🚀 Projects
 
-- 🔐 [Secure Multiplayer Tic-Tac-Toe Game](https://github.com/charrann12/TicTacToe_Multiplayer)  
-  A full-stack multiplayer game built using JavaScript session-based gameplay.
+- 🔐 [Bus reservation System usings OS Concepts](https://github.com/charrann12/Bus_Reservation_System)  
+  A bus booking system made using server-client architecture in C++ using OS concepts like multi-threading,semaphores, sockets etc.,
 
 - 🌦️ [Weather App](https://github.com/charrann12/Weather_App)  
   A clean JS-based UI fetching real-time weather using OpenWeatherMap API.
