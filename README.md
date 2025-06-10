@@ -1,8 +1,9 @@
-# 👋 Hello World, I'm Sai Charan Nethi!
+<h1 align="center">Hi 👋, I'm Sai Charan Nethi</h1>
+<h3 align="center">B.Tech CSE @ NIT Durgapur | Full-Stack Developer | DSA Enthusiast</h3>
 
-🎓 B.Tech in Computer Science & Engineering  
-🏫 National Institute of Technology, Durgapur (2023–2027)  
-📍 Passionate about Problem Solving, Full-Stack Development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there!+Welcome+to+my+GitHub;I'm+a+passionate+tech+enthusiast+from+India;Building+projects+and+solving+problems+daily!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -46,6 +47,14 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=charrann12&theme=tokyonight&hide_border=true)
 
 ---
+---
+
+### ✨ Fun Developer GIFs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+</p>
 
 
 ## 📫 Let's Connect
