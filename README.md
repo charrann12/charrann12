@@ -1,12 +1,8 @@
-<h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Sai Charan Nethi</span> 👋</h1>
+<h1 align="center">Hi 👋, I'm Sai Charan Nethi</h1>
 <h3 align="center">B.Tech CSE @ NIT Durgapur | Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Passionate+Developer+from+India;Love+building+cool+UIs+%F0%9F%9A%80;I+solve+DSA+daily+on+Leetcode+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+CS+at+NIT+Durgapur;Building+Clean+and+Efficient+Systems;DSA+%7C+Java+%7C+React+%7C+DBMS" alt="Typing Animation" />
 </p>
 
 
@@ -46,10 +42,6 @@
 ---
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=footer" />
-</p>
-
 
 ## 📊 GitHub Stats
 
@@ -59,14 +51,10 @@
 
 ---
 ---
-
-### 🌟 Developer Vibes
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/l3vR1jvP8z3RA2kGs/giphy.gif" width="280" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 </p>
+
 
 
 
