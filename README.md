@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ NIT Durgapur | Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+CSE+at+NIT+Durgapur;Building+Clean+and+Efficient+Codes;DSA+%7C+FrontEnd+DBMS" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+CSE+at+NIT+Durgapur;Building+Clean+and+Efficient+Codes;DSA+%7C+FrontEnd+%7C+DBMS" alt="Typing Animation" />
 </p>
 
 
