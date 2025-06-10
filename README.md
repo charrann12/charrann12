@@ -50,8 +50,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-charan-nethi-9902782ab/) *(replace with actual link)*  
-- ✉️ Email: nethisaicharan12345@example.com *(optional)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-charan-nethi-9902782ab/) 
+- ✉️ Email: nethisaicharan12345@example.com 
 
 ---
 
