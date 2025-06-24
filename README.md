@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C, C++, Java, JavaScript  
+**Languages:** C, C++, JavaScript  
 **Frontend:** HTML, CSS, React, Tailwind CSS, Bootstrap   
 **Tools:** Git, GitHub, VS Code  
 **Database:** MySQL  
@@ -33,7 +33,11 @@
 ## 🧰 Tools I Use
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -50,12 +54,6 @@
 
 ---
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-</p>
-
-
-
 
 ## 📫 Let's Connect
 
