@@ -10,13 +10,13 @@
 
 ## 🚀 Projects
 
-- 🔐 [Bus reservation System usings OS Concepts](https://github.com/charrann12/Bus_Reservation_System)  
+-  [Bus reservation System usings OS Concepts](https://github.com/charrann12/Bus_Reservation_System)  
   A bus booking system made using server-client architecture in C++ using OS concepts like multi-threading,semaphores, sockets etc.,
 
-- 🌦️ [Weather App](https://github.com/charrann12/Weather_App)  
-  A clean JS-based UI fetching real-time weather using OpenWeatherMap API.
+-  [Blog API](https://github.com/charrann12/blog_API)  
+  A project which has HTTP methods and building an API and integrating it.
 
-- 🧠 [Simon Game](https://github.com/charrann12/Simon_Game)  
+-  [Simon Game](https://github.com/charrann12/Simon_Game)  
   A fun memory game built with JavaScript, HTML, and CSS for a quick brain workout.
 
 ---
