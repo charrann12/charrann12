@@ -16,8 +16,8 @@
 -  [Blog API](https://github.com/charrann12/blog_API)  
   A project which has HTTP methods and building an API and integrating it.
 
--  [Simon Game](https://github.com/charrann12/Simon_Game)  
-  A fun memory game built with JavaScript, HTML, and CSS for a quick brain workout.
+-  [3D Solar System](https://github.com/charrann12/3D_Solar_System)  
+  A simple solar system interface built using JS and also used its libraries like ThreeJS and webGL for better animation and 3D look.
 
 ---
 
